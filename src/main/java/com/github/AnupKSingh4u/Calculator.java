@@ -7,7 +7,7 @@ public class Calculator {
         return a + b;
     }
 
-// Subtracts two numbers
+// Subtracts second number from first number
     public int subtract(int a, int b) {
         return a - b;
     }
