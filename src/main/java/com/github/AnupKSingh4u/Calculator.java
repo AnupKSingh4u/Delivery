@@ -12,11 +12,11 @@ public class Calculator {
         return a - b;
     }
     
- // Subtracts two numbers
+ // Multiply first number with second number
     public int multiply(int a, int b) {
         return a*b;
     } 
- // Subtracts two numbers
+ // Divide first number with second number
     public int divide(int a, int b) {
         return a/b;
     }
