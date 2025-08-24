@@ -1,4 +1,4 @@
-package com.application;
+package com.github.AnupKSingh4u;
 
 public class Calculator {
 
@@ -12,4 +12,11 @@ public class Calculator {
         return a - b;
     }
 	
+    public int divide(int a, int b) {
+        return a/b;
+    }  
+    
+    public int factor(int a, int b) {
+        return a*b;
+    }
 }
